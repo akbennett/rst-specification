@@ -1,0 +1,9 @@
+.. Revision of the specification
+
+.. |spec-major| replace:: 0
+.. |spec-minor| replace:: 1
+
+.. General Macros
+
+.. |spec| replace:: ProdSpec
+.. |spec-fullname| replace:: Product Specification
